@@ -30,5 +30,4 @@ sudo apt install python3-pip
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
 #this will go back to home directory
-cd ..
-cd ..
+cd $HOME
